@@ -1,0 +1,10 @@
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.png
+*.jpg
+*.jpeg
+tracking.json
+__pycache__/
+.venv/
